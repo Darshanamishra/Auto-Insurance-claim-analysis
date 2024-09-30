@@ -1,4 +1,4 @@
-Project Details
+Auto Insurance Claims Analysis
 
 In this project, I analyzed auto insurance claims data using Excel pivot tables, Power Query, and various data visualization techniques. The goal of the project was to help insurance companies better understand risk factors, claim trends, and customer behavior, leading to more informed decision-making processes.
 
