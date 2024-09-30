@@ -13,5 +13,6 @@ Throughout this project, I have demonstrated my deep understanding and practical
 5. Conditional Formatting
 6. Risk Factors Metrics
 7. Interactive Dashboard for end user
+
 The insights derived from the analysis helped the insurance company improve operational efficiency, reduce fraud, and maximize profitability by identifying high-risk areas and optimizing resource allocation.
 
