@@ -1,14 +1,18 @@
-Auto Insurance Claims Data Analysis Project
+Project Details
 
-Welcome to my data analysis project focusing on auto insurance claims, meticulously crafted using Excel. In this project, I've applied a comprehensive approach to data processing and visualization, including:
+In this project, I analyzed auto insurance claims data using Excel pivot tables, Power Query, and various data visualization techniques. The goal of the project was to help insurance companies better understand risk factors, claim trends, and customer behavior, leading to more informed decision-making processes.
 
-Data Cleaning and Standardizing: Ensuring data accuracy and consistency.
-Data Engineering and Formatting: Transforming raw data for analysis.
-Handling Missing Values: Using effective techniques to manage missing data.
-Data Transformation: Preparing data for insightful analysis.
-Key Features:
+Key deliverables included a dynamic, interactive dashboard that provided insights on claims across different periods and geographic regions. The dashboard allowed users to filter data based on multiple criteria such as claim type, policy period, and customer demographics, enabling more tailored strategies for risk mitigation and customer service optimization.
 
-Interactive Dashboard: Utilizing pivot tables, pivot charts, and slicers for dynamic visualization.
-Insightful Visualizations: Explore trends and patterns in auto insurance claims data.
-Data File: Access the Excel file to delve deeper into the analysis process.
-This project demonstrates the power of Excel in transforming complex datasets into actionable insights. Dive into the details and explore how data-driven decisions can enhance understanding and strategy in the insurance industry.
+Throughout this project, I have demonstrated my deep understanding and practical knowledge in the following areas:
+
+
+1. Data Transformation Techniques
+2. Pivot Table
+3. Power Query
+4. Dax Measures
+5. Conditional Formatting
+6. Risk Factors Metrics
+7. Intrective Dashboard for end user
+   
+The insights derived from the analysis helped the insurance company improve operational efficiency, reduce fraud, and maximize profitability by identifying high-risk areas and optimizing resource allocation.
