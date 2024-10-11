@@ -1,4 +1,4 @@
-**Auto Insurance Claims Analysis**
+***Auto Insurance Claims Analysis***
 
 I analyzed auto insurance claims data using Excel pivot tables, Power Query, and various data visualization techniques in this project. The project aimed to help insurance companies better understand risk factors, claim trends, and customer behavior, leading to more informed decision-making processes.
 
