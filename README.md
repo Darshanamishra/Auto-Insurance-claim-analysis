@@ -1,6 +1,6 @@
 # Auto Insurance Claims Analysis
 
-![Auto Insurance Claims Analysis](https://raw.githubusercontent.com/Darshanamishra/Image/main/Auto%20insurance.png) <!-- Update with the correct URL for your image -->
+![Auto Insurance Claims Analysis](https://github.com/Darshanamishra/Images/blob/main/Auto%20insurance.png) <!-- Update with the correct URL for your image -->
 
 In this project, I analyzed auto insurance claims data using Excel pivot tables, Power Query, and various data visualization techniques. The project aimed to help insurance companies better understand risk factors, claim trends, and customer behavior, leading to more informed decision-making processes.
 
