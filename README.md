@@ -13,7 +13,7 @@ In this project, I analyzed auto insurance claims data using Excel pivot tables,
 
 Throughout this project, I have demonstrated my deep understanding and practical knowledge in the following areas:
 
-- Data Transformation Techniques
+- Data Transformation Techniques 
 - Pivot Tables
 - Power Query
 - Exploratory Data Analysis
