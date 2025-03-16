@@ -17,7 +17,7 @@ Throughout this project, I have demonstrated my deep understanding and practical
 - Data Transformation Techniques 
 - Pivot Tables
 - Power Query
-- Exploratory Data Analysis
+- Exploratory Data Analysis 
 - Conditional Formatting
 - Risk Factors Metrics
 - Interactive Dashboard
