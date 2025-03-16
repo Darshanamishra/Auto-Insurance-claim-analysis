@@ -12,7 +12,7 @@ customer behavior, leading to more informed decision-making processes.
 
 ## Skills Demonstrated
 
-Throughout this project, I have demonstrated my deep understanding and practical knowledge in the following areas:
+Throughout this project, I have demonstrated my deep understanding and practical knowledge in the following areas: 
 
 - Data Transformation Techniques 
 - Pivot Tables
