@@ -8,7 +8,7 @@ customer behavior, leading to more informed decision-making processes.
 ## Key Deliverables
 
 - A dynamic, interactive dashboard that provided insights on claims across different periods and geographic regions.
-- Users can filter data based on multiple criteria such as claim type, policy period, and customer demographics, enabling more tailored strategies for risk mitigation and customer service optimization.
+- Users can filter data based on multiple criteria such as claim type, policy period, and customer demographics, enabling more tailored strategies for risk mitigation and customer service optimization. 
 
 ## Skills Demonstrated
 
