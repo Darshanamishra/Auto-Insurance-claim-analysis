@@ -9,7 +9,7 @@ customer behavior, leading to more informed decision-making processes.
 
 - A dynamic, interactive dashboard that provided insights on claims across different periods and geographic regions.
 - Users can filter data based on multiple criteria such as claim type, policy period, and customer demographics, enabling more tailored strategies for risk mitigation and customer service optimization.  
-
+ 
 ## Skills Demonstrated
 
 Throughout this project, I have demonstrated my deep understanding and practical knowledge in the following areas: 
